@@ -1,0 +1,24 @@
+.head{
+    margin-top: 0;
+    box-shadow: 5px 5px 20px red ;
+}
+.span{
+    font-size: 15px;
+    color: black;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 27px;
+    box-shadow: 5px -6px 22px blue;
+}
+
+canvas{
+    border-radius: 100px;
+    border: 6px orange double ;
+    box-shadow: 7px 7px 25px violet;
+}
